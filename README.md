@@ -1,7 +1,7 @@
 # ECE-489
-Lab Code for ECE 489 (Robot Modeling and Control)
+Lab Code for ECE 489 (Robot Dynamics and Control)
 
-This repository contains the code written by myself and my partner for the class ECE 489, Robot Modeling and Control, at UIUC. We experimented with different controllers on a CRS robot arm.
+This repository contains the code written by myself and my partner for the class ECE 489, Robot Dynamics and Control, at UIUC. We experimented with different controllers on a CRS robot arm.
 The controllers were programmed in C and flashed to a custom DSP chip created by the lab staff to control the arm. We evaluated the behvaior and responses of each controller using Matlab and Simulink tools.
 Controllers include PID with Feedforward, Inverse Dynamics, Task Space PD, and Impedance control.
 The final demonstration required the use of an impedance controller to navigate the end-effector of the manipulator through a set of obstacles.
